@@ -226,7 +226,6 @@ GameObject:
   - component: {fileID: 915560328}
   - component: {fileID: 915560327}
   - component: {fileID: 915560326}
-  - component: {fileID: 915560330}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -320,18 +319,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!1 &987344882
 GameObject:
-=======
---- !u!114 &915560330
-MonoBehaviour:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   serializedVersion: 6
   m_Component:
   - component: {fileID: 987344886}
@@ -431,14 +424,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
-  m_GameObject: {fileID: 915560325}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7931e36f5df374df7a06cc2211b28262, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
->>>>>>> Stashed changes
 --- !u!1 &2111747778
 GameObject:
   m_ObjectHideFlags: 0
